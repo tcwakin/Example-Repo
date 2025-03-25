@@ -1,0 +1,9 @@
+.DS_Store
+.Trashes
+*.log
+*.tmp
+*.swp
+ehthumbs.db
+Thumbs.db
+.zsh_history
+
